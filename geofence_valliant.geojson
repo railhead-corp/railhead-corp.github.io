@@ -1,0 +1,17 @@
+{ "type": "FeatureCollection",
+    "features": [
+        { "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [ [ 33.983334, -95.121840 ], [ 34.024901, -95.121840 ], [ 34.024901, -95.073743 ],
+                        [ 33.983334, -95.073743 ], [ 33.983334, -95.121840 ] ]
+                ]
+            },
+            "properties": {
+                "name": "Valliant Yard",
+                "prop1": { "this": "that" }
+            }
+        }
+    ]
+}
